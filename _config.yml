@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title: Researcher
 url: "https://ankitsultana.com"
 baseurl: "/researcher"
@@ -22,3 +23,6 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+=======
+theme: jekyll-theme-time-machine
+>>>>>>> aa39862acd74391d830e61da29063e2ed8813fd7
