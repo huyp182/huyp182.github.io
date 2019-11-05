@@ -1,26 +1,1 @@
----
-layout: default
-is_contact: true
----
-
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+﻿﻿﻿﻿﻿﻿﻿﻿---layout: defaultis_contact: true---* Email: [huyingpeng18s@ict.ac.cn](mailto:huyingpeng18s@ict.ac.cnhuyingpeng18s@ict.ac.cn)* Phone: [+86-13331015935](tel:+86-13331015935)---## Mailing Address> University of Chinese Academy of Sciences>> Beijing>>China---## Social1. [Facebook](https://www.facebook.com/profile.php?id=100010435874511)2. [Twitter](https://twitter.com/a782832949)3. [Google+](#)
